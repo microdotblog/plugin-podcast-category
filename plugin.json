@@ -1,0 +1,12 @@
+{
+	"version": "1.0",
+	"title": "Podcast category",
+	"description": "Customize podcast.xml to use a specific category.",
+	"fields": [
+		{
+			"field": "params.podcast_use_category",
+			"label": "Use category",
+			"placeholder": "Enter the category name to pull podcast episodes from"
+		}
+	]
+}
